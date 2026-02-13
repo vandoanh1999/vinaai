@@ -1,5 +1,5 @@
 {
-  "name": "ai-chatbot",
+  "name": "vinaai",
   "version": "3.1.0",
   "private": true,
   "scripts": {
@@ -95,6 +95,7 @@
     "swr": "^2.2.5",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
+    "three": "^0.170.0",
     "use-stick-to-bottom": "^1.1.1",
     "usehooks-ts": "^3.1.0",
     "zod": "^3.25.76"
@@ -111,6 +112,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@types/react-syntax-highlighter": "^15.5.13",
+    "@types/three": "^0.170.0",
     "drizzle-kit": "^0.25.0",
     "postcss": "^8",
     "tailwindcss": "^4.1.13",
